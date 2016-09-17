@@ -1,0 +1,9 @@
+Package: libinquisition
+Version: 1.0
+Section: libs
+Architecture: amd64
+Multi-Arch: same
+Depends: libstdc++6:amd64, libc6:amd64, libgcc1:amd64
+Maintainer: Maju <maju@majudev.net>
+Description: The InquisitionCipher C++ library.
+Homepage: http://majudev.net/inquisition_cipher

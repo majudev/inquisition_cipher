@@ -1,0 +1,8 @@
+Package: libinquisition-dev
+Version: 1.0
+Section: libdevel
+Architecture: all
+Depends: libinquisition
+Maintainer: Maju <maju@majudev.net>
+Description: The InquisitionCipher C++ library.
+Homepage: http://majudev.net/inquisition_cipher
